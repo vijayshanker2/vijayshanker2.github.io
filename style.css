@@ -1,0 +1,80 @@
+body {
+  padding-top: 30px;
+  width: 100%;
+  position: relative;
+  margin: 0;
+  background-color:grey;
+}
+.navbar-custom .navbar-nav > li > a:hover {
+  font-weight: bold;
+  font-style: italic;
+}
+.parallax {
+  background-image: url("http://res.cloudinary.com/dya20dbzd/image/upload/c_scale,h_1080,q_100,w_1920/v1500171065/dustin-lee-19667_t10y6y.jpg");
+  min-height: 50em;
+
+  margin: auto;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.title {
+  margin-top: .7em;
+  font-size: 20em;
+  font-family: 'Shadows Into Light';
+  text-align: center;
+}
+.sub-title {
+  margin-top: -2em;
+  font-size: 3em;
+  font-family: 'Shadows Into Light';
+  text-align: center;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 15px;
+}
+.fa:hover {
+  color:blue;
+  background-color:white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-github {
+  background: #222222;
+  color: white;
+}
+.page2 {
+  width: 100%;
+}
+.jumbotron{
+  background-color:green;
+}
+.jumbotron>h1,p{
+  font-family:'Noto San';
+}
+.carousel-caption{
+  font-family:'Raleway';
+}
+.page3 {
+  width: 100%;
+  text-align:center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
