@@ -1,1 +1,1 @@
- https://vijayshanker.github.io/
+ https://vijayshanker.github.io/site/
